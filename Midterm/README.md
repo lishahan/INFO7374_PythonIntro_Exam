@@ -1,10 +1,10 @@
-# Midterm Exam - Spring 2017 
+### Midterm Exam - Spring 2017 
 
-#Question1
+##Question1
 Enron Email list data analysis
 
 #Analysis1
--Based on the file given, count the number of unique users from Enron
+-Based on the files given, count the number of unique users from Enron
 
 #Analysis2
 -Get all the subjects and sort them
@@ -18,7 +18,9 @@ Enron Email list data analysis
 -The business dorp down obviously after 2001 which is the same status as status of Enron.
 
 
-#Question2
+
+
+##Question2
 New York Time Data Analysis
 
 #Data Collection and store
@@ -33,8 +35,9 @@ New York Time Data Analysis
 
 #Analysis2
 -Hotest word in recent 5 years(data from archive API)
+-Data are from Snippets of each json file
 
 #Analysis3
--Go through the archive data from the past 5 years
--Count frequency of keyword 'oscar' by month
--export plot figure to see the trend
+-Go through the [lead_paragraph] from each json file from the past 5 years
+-Count frequency of words from keyword list ['Oscar','Super Bowl', 'Election', 'International']
+-Plot a figure with frequency of different keywords from different years
