@@ -337,7 +337,7 @@ py.iplot(fig, filename='styled-scatter')
 
 
 
-### 2. Buidl a CNN model using tensorflow
+### 2. Build a CNN model using tensorflow
 #### See if lower quality images dataset will get lower accuracy
 
 
